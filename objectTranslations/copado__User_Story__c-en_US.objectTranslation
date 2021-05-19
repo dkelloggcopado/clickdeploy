@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Kaiser Test User Story Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Deployment Controls --></label>
+            <section>Deployment Controls</section>
+        </sections>
+        <sections>
+            <label><!-- Development Control --></label>
+            <section>Development Control</section>
+        </sections>
+        <sections>
+            <label><!-- Git Controls --></label>
+            <section>Git Controls</section>
+        </sections>
+        <sections>
+            <label><!-- Pipeline Flow --></label>
+            <section>Pipeline Flow</section>
+        </sections>
+        <sections>
+            <label><!-- Quality Gates --></label>
+            <section>Quality Gates</section>
+        </sections>
+        <sections>
+            <label><!-- User Story selections --></label>
+            <section>User Story selections</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Uber User Story Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Deployment Controls --></label>
+            <section>Deployment Controls</section>
+        </sections>
+        <sections>
+            <label><!-- Development Control --></label>
+            <section>Development Control</section>
+        </sections>
+        <sections>
+            <label><!-- Git Controls --></label>
+            <section>Git Controls</section>
+        </sections>
+        <sections>
+            <label><!-- Pipeline Flow --></label>
+            <section>Pipeline Flow</section>
+        </sections>
+        <sections>
+            <label><!-- Quality Gates --></label>
+            <section>Quality Gates</section>
+        </sections>
+        <sections>
+            <label><!-- User Story selections --></label>
+            <section>User Story selections</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>User Story Layout (Unmanaged)</layout>
+        <sections>
+            <label><!-- Apex Code Coverage --></label>
+            <section>Apex Code Coverage</section>
+        </sections>
+        <sections>
+            <label><!-- Approvals --></label>
+            <section>Approvals</section>
+        </sections>
+        <sections>
+            <label><!-- Compliance --></label>
+            <section>Compliance</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Deployment Flow --></label>
+            <section>Deployment Flow</section>
+        </sections>
+        <sections>
+            <label><!-- Deployment Options --></label>
+            <section>Deployment Options</section>
+        </sections>
+        <sections>
+            <label><!-- Latest Deployment Validation Results --></label>
+            <section>Latest Deployment Validation Results</section>
+        </sections>
+        <sections>
+            <label><!-- Project Management --></label>
+            <section>Project Management</section>
+        </sections>
+        <sections>
+            <label><!-- Resourcing --></label>
+            <section>Resourcing</section>
+        </sections>
+        <sections>
+            <label><!-- User Story selections --></label>
+            <section>User Story selections</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>VA Citizen Developer User Story Layout</layout>
+        <sections>
+            <label><!-- Current Environment and Deployment Controls --></label>
+            <section>Current Environment and Deployment Controls</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Pipeline Flow --></label>
+            <section>Pipeline Flow</section>
+        </sections>
+        <sections>
+            <label><!-- Quality Gates --></label>
+            <section>Quality Gates</section>
+        </sections>
+        <sections>
+            <label><!-- User Story selections --></label>
+            <section>User Story selections</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>
